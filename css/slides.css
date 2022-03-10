@@ -3416,7 +3416,7 @@ html.mobile .showForMobileInline {
 
 .animated .animate .ae-4:not(.done),
 .animated.animate .ae-4:not(.done) {
-  transition-delay: 460ms;
+  transition-delay: 250ms;
 }
 
 .animated .animate .ae-5:not(.done),
